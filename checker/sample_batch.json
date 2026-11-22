@@ -1,0 +1,37 @@
+{
+  "_note": "FICTIONAL sample batch for trying the checker. Companies, people and facts are invented (Microsoft-style sample names). Emails 4 and 5 and the batch contain deliberate problems.",
+  "sender": "Example Security",
+  "signature": "Best regards,\nSam\nPartnerships team, Example Security",
+  "emails": [
+    {
+      "id": "1", "first_name": "Maya", "company": "Northwind Payments",
+      "subject": "Northwind Payments and the new partner API",
+      "body": "Hi Maya,\n\nI lead partnerships at Example Security, a small team that runs around-the-clock monitoring for fintech companies. I noticed Northwind Payments opened its merchant API to partners in three new markets this year, which usually means more integrations to watch and more alerts for a lean engineering team to triage.\n\nWe help growing fintech teams keep customer data safe while they scale, without hiring a full security operations team first. Our analysts watch the alerts, handle the noisy ones and only wake your engineers for the issues that matter.\n\nWould a 20-minute call next week be useful to see whether this fits how Northwind Payments works today?\n\nBest regards,\nSam\nPartnerships team, Example Security"
+    },
+    {
+      "id": "2", "first_name": "Daniel", "company": "Contoso Lending",
+      "subject": "Monitoring for Contoso Lending's loan platform",
+      "body": "Hi Daniel,\n\nI lead partnerships at Example Security, a small team that runs around-the-clock monitoring for fintech companies. Contoso Lending moved its loan decisions to a cloud platform last spring, and teams at that stage often find that logs pile up faster than anyone has time to read them.\n\nWe help growing fintech teams keep customer data safe while they scale, and we report in plain language that a board or an auditor can follow. You keep your engineers on the product while our analysts review the alerts every day.\n\nWould a 20-minute call in the next two weeks be worth it to compare notes on how Contoso Lending handles this now?\n\nBest regards,\nSam\nPartnerships team, Example Security"
+    },
+    {
+      "id": "3", "first_name": "Priya", "company": "Fabrikam Pay",
+      "subject": "A question about Fabrikam Pay's on-call load",
+      "body": "Hi Priya,\n\nI lead partnerships at Example Security, a small team that runs around-the-clock monitoring for fintech companies. Fabrikam Pay has grown its engineering team quickly, and the on-call rota is usually the first place that growth starts to hurt when security alerts land at night.\n\nWe help growing fintech teams keep customer data safe while they scale. Our analysts take the first look at every alert, close the false alarms and hand your team a short, clear note when something needs action.\n\nCould we find 20 minutes next week to see whether that would take some pressure off the Fabrikam Pay on-call rota?\n\nBest regards,\nSam\nPartnerships team, Example Security"
+    },
+    {
+      "id": "4", "first_name": "Omar", "company": "Tailspin Wallet",
+      "subject": "Tailspin Wallet, round-the-clock alert review for a fast-growing wallet team",
+      "body": "Hi Omar,\n\nI lead partnerships at Example Security, a small team that runs around-the-clock monitoring for fintech companies. Tailspin Wallet launched card payments this year, and new payment features tend to bring new kinds of alerts that a small team has to learn to read on the fly.\n\nWe help growing fintech teams keep customer data safe while they scale. We start with a short review of the alerts you already collect, then take over the daily triage so your engineers can stay focused on shipping.\n\nWould a 20-minute call next week help you decide whether this is worth exploring for Tailspin Wallet?\n\nBest regards,\nSam\nPartnerships team, Example Security"
+    },
+    {
+      "id": "5", "first_name": "Lena", "company": "Adventure Works Capital",
+      "subject": "Securing Adventure Works Capital",
+      "body": "Hi there,\n\nI hope this email finds you well. After your recent breach, I imagine security is top of mind at Adventure Works Capital, and honestly your setup looks outdated for a firm of your size. [COMPANY_DETAIL]\n\nTeams like yours cut their response times by 60% within three months of working with us, and we guarantee that every alert is reviewed by an analyst within ten minutes, day or night, every day of the year.\n\nCan we book a quick call and a demo of our platform this week? Is Thursday or Friday better for you? Would you like our brochure first?\n\nBest regards,\nSam\nPartnerships team, Example Security"
+    },
+    {
+      "id": "6", "first_name": "Ravi", "company": "Wingtip Remit",
+      "subject": "Wingtip Remit's expansion into new corridors",
+      "body": "Hi Ravi,\n\nMy name is Sam and I look after partnerships at Example Security. Wingtip Remit added two new payout corridors this quarter, and each new banking partner usually arrives with its own security questionnaire and its own logging requirements to meet.\n\nWe run the monitoring side of that work for small payment companies: collecting the logs each partner asks for, reviewing the alerts every day and preparing the evidence your team needs when the next questionnaire arrives.\n\nIf it would help, I could walk you through how two of our remittance clients answer those questionnaires today. Would 20 minutes next week suit you?\n\nBest regards,\nSam\nPartnerships team, Example Security"
+    }
+  ]
+}
